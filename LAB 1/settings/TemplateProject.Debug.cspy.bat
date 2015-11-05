@@ -25,7 +25,7 @@ if not "%1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\settings\TemplateProject.Debug.general.xcl" --backend -f "C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\settings\TemplateProject.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "H:\GITHUB\github1\LAB 1\settings\TemplateProject.Debug.general.xcl" --backend -f "H:\GITHUB\github1\LAB 1\settings\TemplateProject.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\settings\TemplateProject.Debug.general.xcl" "--debug_file=%1" --backend -f "C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\settings\TemplateProject.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "H:\GITHUB\github1\LAB 1\settings\TemplateProject.Debug.general.xcl" "--debug_file=%1" --backend -f "H:\GITHUB\github1\LAB 1\settings\TemplateProject.Debug.driver.xcl" 
 
 @echo off 
 :end

@@ -12,15 +12,59 @@
 
 "--no_wrap_around" 
 
-"--odd_word_check" 
-
 "-d" 
 
-"sim" 
+"fet" 
 
-"--derivativeSim" 
+"--erase_main" 
+
+"--derivative" 
 
 "MSP430FR4133" 
+
+"--protocol" 
+
+"automatic" 
+
+"--eem" 
+
+"EMEX_SMALL_5XX" 
+
+"--port" 
+
+"Automatic" 
+
+"--connection" 
+
+"ti_usb" 
+
+"--use_emulated_breakpoints" 
+
+"--settlingtime=0" 
+
+"--msp430_dll" 
+
+"msp430.dll" 
+
+"--vccDefault" 
+
+"3.3" 
+
+"--jtag_speed" 
+
+"medium" 
+
+"--memtype" 
+
+"FR" 
+
+"--erasetype" 
+
+"1" 
+
+"--cycleCounter" 
+
+"1" 
 
 
 

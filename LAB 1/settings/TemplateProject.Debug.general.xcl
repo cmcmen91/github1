@@ -1,8 +1,8 @@
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\bin\430proc.dll" 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\bin\430sim.dll" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\bin\430fet.dll" 
 
-"C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\main.c" 
+"H:\GITHUB\github1\LAB 1\main.c" 
 
 --plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\bin\430bat.dll" 
 

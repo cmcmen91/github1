@@ -1,10 +1,10 @@
-"C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\driverlib\MSP430FR2xx_4xx\framctl.c"
+"H:\GITHUB\github1\driverlib\MSP430FR2xx_4xx\framctl.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\..
+H:\GITHUB\github1\LAB 1\..
 -I
-C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\Template_IAR_Project\..\driverlib\MSP430FR2xx_4xx
+H:\GITHUB\github1\LAB 1\..\driverlib\MSP430FR2xx_4xx
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\inc\dlib
 -I
@@ -12,9 +12,9 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\430\inc\dlib\c
 -I
-C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode
+H:\GITHUB\github1
 -I
-C:\Users\Gordon\OneDrive\Documents\GitHub\TemplateCode\driverlib\MSP430FR2xx_4xx
+H:\GITHUB\github1\driverlib\MSP430FR2xx_4xx
 -D__MSP430FR4133__=1
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
